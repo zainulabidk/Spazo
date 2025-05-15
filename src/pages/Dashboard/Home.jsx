@@ -4,7 +4,7 @@ const Home = () => (
         <p className="text-2xl font-bold text-gray-600">Your dashboard starts here.</p>
 
 
-    <p className="text-1xl font-bold text-gray-600">We are woring on it !!!!!</p>
+    <p className="text-1xl font-bold text-gray-600">We are working on it !!!!!</p>
   </div>
 );
 
