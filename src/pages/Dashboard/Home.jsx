@@ -1,7 +1,10 @@
 const Home = () => (
   <div>
-    <h2 className="text-2xl font-semibold">Dashboard Home</h2>
-    <p>Welcome to your dashboard!</p>
+      <h1 className="text-5xl font-bold ">Welcome to Our App</h1>
+        <p className="text-2xl font-bold text-gray-600">Your dashboard starts here.</p>
+
+
+    <p className="text-1xl font-bold text-gray-600">We are woring on it !!!!!</p>
   </div>
 );
 
